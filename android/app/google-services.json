@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "841931844017",
-    "project_id": "the-shopit",
-    "storage_bucket": "the-shopit.appspot.com"
+    "project_number": "1055652477186",
+    "project_id": "abcd-2b7b6",
+    "storage_bucket": "abcd-2b7b6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:841931844017:android:2935a88c188f919c80f590",
+        "mobilesdk_app_id": "1:1055652477186:android:160ec94db401adf8266a1b",
         "android_client_info": {
-          "package_name": "com.shopit.app"
+          "package_name": "com.example.temp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "841931844017-933d16lr9b6cjnrdbt2qi1tvktvgk2r1.apps.googleusercontent.com",
+          "client_id": "1055652477186-d2ahg0s14ksjvhb8kn26gg75315li57g.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDEE7f9RWrOD4iqHgK-sbcVNHUFnsYyeDY"
+          "current_key": "AIzaSyC1qqRyx5Ln-2xIcYwrO5ZOA7CtXv4fSJ0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "841931844017-933d16lr9b6cjnrdbt2qi1tvktvgk2r1.apps.googleusercontent.com",
+              "client_id": "1055652477186-d2ahg0s14ksjvhb8kn26gg75315li57g.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

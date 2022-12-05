@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.shopit.app">
+    package="com.example.temp">
    <application
         android:label="The Shopit App"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/shopitapp">
         <activity
             android:name=".MainActivity"
             android:exported="true"
